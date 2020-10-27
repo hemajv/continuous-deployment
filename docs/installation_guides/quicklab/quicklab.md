@@ -7,12 +7,12 @@
 2. Click **New cluster**
 
 3. Select **openshift4upi** template and a region you like the most, then select the reservation duration, the rest can be left as is:
-   ![Select a template](template_select.png)
+   ![Select a template](./template_select.png "template_select")
 
 4. Go to cluster page by clicking on the cluster name in **My clusters** table
 
 5. Once the cluster reaches **Active** state your cluster history should look like this:
-   ![Cluster is active for the first time](cluster_log_1.png)
+   ![Cluster is active for the first time](./cluster_log_1.png "cluster_log_1")
 
 6. Now click on **New Bundle** button in **Product information** section
 
@@ -20,10 +20,10 @@
    ![Select a bundle](bundle_select.png)
 
 8. Wait for OCP4 to install. After successful installation you should see a cluster history log like this:
-   ![Cluster log after OCP4 install](cluster_log_2.png)
+   ![Cluster log after OCP4 install](./cluster_log_2.png "cluster_log_2")
 
 9. Use the link and credentials from the **Cluster Information** section to access your cluster.
-   ![Cluster information](cluster_information.png)
+   ![Cluster information](./cluster_information.png "cluster_information")
 
 10. Login as the `kubeadmin`, take the value from "Hosts" and port 6443.\
     For example:
