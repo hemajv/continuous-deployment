@@ -64,7 +64,7 @@ Please note that the namespace is also hard-coded in the repo so changing it req
 
 
 Create the app and you will see Argo deploying resources:
-![ODH operator](./odh-operator.png "odh-operator")
+![odh-operator](./odh-operator.png "odh-operator")
 
 ### Creating the ODH deployment
 
@@ -89,7 +89,7 @@ This is about the actual deployment of Open Data Hub to your cluster.
 
 Based on the content of `kfdef.yaml` (you will see components of ODH being created similar to:
 
-![ODH operator](./odh-deployment.png "odh-deployment")
+![odh-deployment](./odh-deployment.png "odh-deployment")
 
 You can find routes for your new ODH instance by running:
 ```bash
