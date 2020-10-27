@@ -30,4 +30,4 @@ As an alternative you can install the prerequisites locally:
 
 Your ArgoCD instance will be running at https://argocd-server-aicoe-argocd-dev.apps-crc.testing/. You can login as admin/admin.
 
-![ArgoCD](./argocd-initial.png "argocd-initial")
+![argocd-initial](./argocd-initial.png "argocd-initial")
